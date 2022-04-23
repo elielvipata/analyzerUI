@@ -57,3 +57,23 @@ select {
 #badge {
     text-align: center;
 }
+
+#table_badge {
+    width: 50px;
+    height: 50px;
+}
+
+#user_prediction {
+    position: fixed;
+    left: 0;
+    margin-left: 2%;
+    width: 45%;
+}
+
+#other_prediction {
+    position: fixed;
+    right: 0;
+    margin-right: 2%;
+    width: 45%;
+    text-align: right;
+}
